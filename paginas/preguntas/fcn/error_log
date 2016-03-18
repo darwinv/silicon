@@ -1,0 +1,15 @@
+[29-Dec-2015 15:43:37 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 08:40:31 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 09:38:00 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 09:38:11 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 09:38:15 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 09:38:15 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 09:38:15 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 09:38:15 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 09:38:15 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 09:38:33 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 13:46:24 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 13:46:47 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[30-Dec-2015 15:45:42 America/Denver] PHP Fatal error:  Call to undefined function sendmailRespuesta() in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 14
+[04-Jan-2016 08:20:05 America/Denver] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 49
+[04-Jan-2016 08:22:52 America/Denver] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home1/apreciod/public_html/paginas/preguntas/fcn/f_pregunta.php on line 64

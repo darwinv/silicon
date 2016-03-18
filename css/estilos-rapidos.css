@@ -1,0 +1,475 @@
+/* Colores Mercadoe */
+
+.asulO
+{
+	color:#142d8e;
+}
+
+.asulC
+{
+	color:#1d38a4;
+}
+
+
+/* Tama�os de letras */
+
+.t11
+{
+	font-size:11px;
+}
+
+.t10
+{
+	font-size:10px;
+}
+
+.t12
+{
+	font-size:12px;
+}
+
+.t16
+{
+	font-size:16px;
+}
+.t14
+{
+	font-size:14px;
+}
+.t15
+{
+	font-size:15px;
+}
+.t18
+{
+	font-size:18px;
+}
+
+.t20
+{
+	font-size:20px;
+}
+
+.t22
+{
+	font-size:22px;
+}
+
+.t24
+{
+	font-size:24px;
+}
+
+.t26
+{
+	font-size:26px;
+}
+.t28
+{
+	font-size:28px;
+}
+.t30
+{
+	font-size:30px;
+}
+.t38		
+{		
+	font-size:38px;		
+}
+.mayus{		
+	text-transform: uppercase;		
+}
+/* Margenes y medidas */
+
+.mar0
+{
+	margin:0px;
+}
+.mar10
+{
+	margin: 10px 10px 10px 10px;
+}
+.mar20
+{
+	margin: 20px 20px 20px 20px;
+}
+.mar5
+{
+	margin: 5px 5px 5px 5px;
+}
+.marR0
+{
+	margin-right:0px;
+}
+.marB5
+{
+	margin-bottom: 5px;
+}
+.marB15
+{
+	margin-bottom: 15px;
+}
+.marB20
+{
+	margin-bottom: 20px;
+}
+.marB10		
+{		
+	margin-bottom:10px;		
+}		
+.marB40		
+{		
+	margin-bottom:40px;		
+}		
+.marB30
+{		
+	margin-bottom:30px;		
+}
+.marB100
+{
+	margin-bottom: 100px;
+}
+.marL0
+{
+	margin-left:0px;
+}
+.marL5
+{
+	margin-left:5px;
+}
+.marL10
+{
+	margin-left:10px;
+}
+.marL15
+{
+	margin-left:15px;
+}
+.marL20
+{
+	margin-left:20px;
+}
+.marL30
+{
+	margin-left:30px;
+}
+.marL50
+{
+	margin-left:50px;
+}
+.marL100
+{
+	margin-left:100px;
+}
+.marL150
+{
+	margin-left:150px;
+}
+.marL200
+{
+	margin-left:200px;
+}
+.marL250
+{
+	margin-left:250px;
+}
+.marL40
+{
+	margin-left:40px;
+}
+.marR5
+{
+	margin-right:5px;
+}
+.marR10
+{
+	margin-right:10px;
+}
+.marR20
+{
+	margin-right:20px;
+}
+.marR30
+{
+	margin-right:30px;
+}
+.marT100
+{
+	margin-top: 100px;
+}
+.marT5
+{
+	margin-top: 5px;
+
+}
+.marT10
+{
+	margin-top: 10px;
+}
+.marT15
+{
+	margin-top: 15px;
+}
+.marT20
+{
+	margin-top: 20px;
+}
+.marT20
+{
+	margin-top: 20px;
+}
+.marT25
+{
+	margin-top: 25px;
+}
+.marT40
+{
+	margin-top: 40px;
+}
+.alto50
+{
+	height:50px;
+}
+.alto100
+{
+	height:100px;
+}
+
+
+.alto25
+{
+	height:25px;
+}
+
+.altoC
+{
+	height:100%;
+}
+
+.anchoC
+{
+	width:100%;
+}
+
+.alto100
+{
+	height: 100px;
+}
+
+.ancho95
+{
+	width:95%;
+}
+
+.ancho90
+{
+	width:90%;
+}
+
+.ancho85
+{
+	width:85%;
+}
+
+.ancho80
+{
+	width:80%;
+}
+.pad15
+{
+	padding: 15px;
+}
+.pad5
+{
+	padding: 5px;
+}
+.pad20
+{
+	padding: 20px;
+}
+.pad40
+{
+	padding: 40px;
+}
+.pad10
+{
+	padding: 10px;
+}
+
+.pad-top
+{
+	padding-top: 20px;
+}
+.pad-top5
+{
+	padding-top: 5px;
+}
+.pad-top10
+{
+	padding-top: 10px;
+}
+.pad-top15
+{
+	padding-top: 15px;
+}
+.pad-top20
+{
+	padding-top: 20px;
+}
+.pad-top35{		
+	padding-top: 35px;		
+}
+.pad-right0
+{
+	padding-right: 0px;
+}
+.pad-right5
+{
+	padding-right: 0px;
+}
+.pad-left0
+{
+	padding-left: 0px;
+}
+.pad-left-20
+{
+	padding-left: -20px;
+}
+
+.talign-left
+{
+	text-align: left;
+}
+
+/* **************************************************** */
+.pointer		
+{		
+	cursor: pointer;		
+}
+.radius5
+{
+	border-radius:5px;
+}
+
+.borderS
+{
+	border:#ccc 1px solid;
+}
+.borderS666
+{
+	border:#999 1px solid;
+}
+.opacity
+{
+	opacity:0.5;
+}
+
+.under-score
+{
+	text-decoration: underline;;
+}
+
+/* Coloeres */
+
+.green
+{
+	color:#093;
+
+}
+.red
+{
+	color:#B90000;
+	
+}
+.red2
+{
+	color:#F00;
+	
+}
+
+.blue
+{
+	color: #039;
+	
+}
+
+.yellow
+{
+	color: #FC0;
+	
+}
+
+.elect
+{
+	color: #414388;
+	
+}
+
+.grisO
+{
+	color:#333;
+}
+
+.grisC
+{
+	color:#999;
+}
+
+.negro
+{
+	color:#000;
+}
+
+.blanco
+{
+	color:#FFF;
+}
+
+.orange-apdp
+{
+ color:#fc7200;
+}
+
+.blueO-apdp
+{
+ color:#00468e;
+}
+
+.blueC-apdp
+{
+ color:#00c3ec;
+}
+
+.vino-apdp
+{
+ color:#890014;
+}
+
+.rojo-apdp
+{
+	color:#EE2200;
+}
+
+.verde-apdp
+{
+	color:#25A25A;
+}
+.naranja-apdp
+{
+	color:#FFCC00;
+}
+
+.amarillo-apdp
+{
+	color:#FFF000;
+}
+
+.yellow-apdp
+{
+ color:#ffc303;
+}
+
+.red-apdp
+{
+	color: #a50a19;
+}

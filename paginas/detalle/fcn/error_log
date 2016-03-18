@@ -1,0 +1,33 @@
+[30-Dec-2015 09:40:21 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[30-Dec-2015 09:40:27 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[30-Dec-2015 09:40:30 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[30-Dec-2015 12:36:02 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[30-Dec-2015 12:36:36 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[30-Dec-2015 12:36:37 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[30-Dec-2015 12:36:38 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[30-Dec-2015 12:36:38 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[30-Dec-2015 12:36:38 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[30-Dec-2015 12:36:44 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[30-Dec-2015 12:43:48 America/Denver] PHP Fatal error:  Call to undefined function utf_encode() in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 33
+[14-Jan-2016 17:44:58 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[14-Jan-2016 17:44:58 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196
+[14-Jan-2016 17:59:38 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[14-Jan-2016 17:59:38 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196
+[14-Jan-2016 18:02:21 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[14-Jan-2016 18:02:21 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196
+[14-Jan-2016 18:17:54 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[14-Jan-2016 18:17:54 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196
+[14-Jan-2016 21:03:49 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[14-Jan-2016 21:03:49 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196
+[15-Jan-2016 06:10:00 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[15-Jan-2016 06:10:00 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196
+[15-Jan-2016 06:15:13 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[15-Jan-2016 06:15:13 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196
+[15-Jan-2016 06:43:39 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[15-Jan-2016 06:43:39 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196
+[15-Jan-2016 07:01:17 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[15-Jan-2016 07:01:17 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196
+[15-Jan-2016 07:08:11 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[15-Jan-2016 07:08:11 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196
+[15-Jan-2016 07:15:14 America/Denver] PHP Warning:  Missing argument 4 for publicaciones::setNotificacion(), called in /home1/apreciod/public_html/paginas/detalle/fcn/f_detalle.php on line 29 and defined in /home1/apreciod/public_html/clases/publicaciones.php on line 179
+[15-Jan-2016 07:15:14 America/Denver] PHP Notice:  Undefined variable: nuevoid in /home1/apreciod/public_html/clases/publicaciones.php on line 196

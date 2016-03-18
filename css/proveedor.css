@@ -1,0 +1,17 @@
+span.diff_titular{
+	font-size: 13px;
+	color: gray;
+	margin-right: 10px;
+}
+.form-apdp>div>div>div {
+	margin-bottom: 5px;
+}
+.modal-ver-prov > div {
+    margin-left: 5px;
+}
+.modal-ver-prov > div > div{
+    margin-left: 20px;
+}
+.modal-ver-prov > div > div > span:first-child{
+	font-weight: bold;
+}

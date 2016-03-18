@@ -1,0 +1,6 @@
+#aptana e ide
+.project
+.metadata
+
+#base de datos config
+config/config_var.php

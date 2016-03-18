@@ -1,0 +1,33 @@
+[30-Dec-2015 06:02:18 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Recientes' at line 5' in /home1/apreciod/public_html/clases/usuarios.php:460
+Stack trace:
+#0 /home1/apreciod/public_html/clases/usuarios.php(460): PDO->query('select * from p...')
+#1 /home1/apreciod/public_html/paginas/perfil/fcn/f_perfil.php(19): usuario->getPublicacionesFavoritas('Menos Recientes')
+#2 /home1/apreciod/public_html/paginas/perfil/fcn/f_perfil.php(6): buscaFavoritos()
+#3 {main}
+  thrown in /home1/apreciod/public_html/clases/usuarios.php on line 460
+[30-Dec-2015 06:02:18 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/apreciod/public_html/paginas/perfil/fcn/f_amigos.php on line 30
+[31-Dec-2015 21:02:54 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Precio' at line 5' in /home1/apreciod/public_html/clases/usuarios.php:463
+Stack trace:
+#0 /home1/apreciod/public_html/clases/usuarios.php(463): PDO->query('select * from p...')
+#1 /home1/apreciod/public_html/paginas/perfil/fcn/f_perfil.php(19): usuario->getPublicacionesFavoritas('Menor Precio')
+#2 /home1/apreciod/public_html/paginas/perfil/fcn/f_perfil.php(6): buscaFavoritos()
+#3 {main}
+  thrown in /home1/apreciod/public_html/clases/usuarios.php on line 463
+[31-Dec-2015 21:02:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/apreciod/public_html/paginas/perfil/fcn/f_amigos.php on line 30
+[31-Dec-2015 21:03:48 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Recientes' at line 5' in /home1/apreciod/public_html/clases/usuarios.php:463
+Stack trace:
+#0 /home1/apreciod/public_html/clases/usuarios.php(463): PDO->query('select * from p...')
+#1 /home1/apreciod/public_html/paginas/perfil/fcn/f_perfil.php(19): usuario->getPublicacionesFavoritas('Mas Recientes')
+#2 /home1/apreciod/public_html/paginas/perfil/fcn/f_perfil.php(6): buscaFavoritos()
+#3 {main}
+  thrown in /home1/apreciod/public_html/clases/usuarios.php on line 463
+[31-Dec-2015 21:03:49 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/apreciod/public_html/paginas/perfil/fcn/f_amigos.php on line 30
+[31-Dec-2015 21:05:49 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/apreciod/public_html/paginas/perfil/fcn/f_amigos.php on line 30
+[14-Jan-2016 20:56:15 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Precio' at line 5' in /home1/apreciod/public_html/clases/usuarios.php:606
+Stack trace:
+#0 /home1/apreciod/public_html/clases/usuarios.php(606): PDO->query('select * from p...')
+#1 /home1/apreciod/public_html/paginas/perfil/fcn/f_perfil.php(19): usuario->getPublicacionesFavoritas('Mayor Precio')
+#2 /home1/apreciod/public_html/paginas/perfil/fcn/f_perfil.php(6): buscaFavoritos()
+#3 {main}
+  thrown in /home1/apreciod/public_html/clases/usuarios.php on line 606
+[14-Jan-2016 20:56:15 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/apreciod/public_html/paginas/perfil/fcn/f_amigos.php on line 30

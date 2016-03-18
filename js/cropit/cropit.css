@@ -1,0 +1,42 @@
+.cropit-image-preview {
+	background-color: #f8f8f8;
+	background-size: cover;
+	border: 1px solid #006CDB;
+	border-radius: 0px;
+	margin-top: 7px;
+	width: 400px;
+	height: 400px;
+	cursor: move;
+}
+
+.cropit-image-background {
+	opacity: .2;
+	cursor: auto;
+}
+
+
+.image-size-label {
+	margin-top: 10px;
+}
+
+input {
+	/* Use relative position to prevent from being covered by image background */
+	position: relative;
+	z-index: 10;
+	display: block;
+}
+
+.export {
+	margin-top: 10px;
+}
+
+input.cropit-image-input {
+/*Ocultar el File Input*/
+	visibility: hidden;
+}
+
+preview-portada {
+    border: 1px solid #eee;
+    height: 176px;
+    width: 560px;
+}
