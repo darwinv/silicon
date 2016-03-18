@@ -202,7 +202,8 @@ class busqueda extends bd{
 		}else{
 			$cla=$this->doFullSelect("clasificados","clasificados_id=$this->clasificados_id order by nombre");
 		}
-		 $lista=array();	 
+		$lista=array();
+		if(is_array($cla)){	 	 
 		 foreach($cla as $c=>$valor){
 		 		$i=$valor["id"];
 		 		$lista[$i]["id"]=$valor["id"];
@@ -216,7 +217,8 @@ class busqueda extends bd{
 				$r=$this->query($consulta);
 				$row=$r->fetch();
 				$lista[$i]["totaC"]=$row["totaC"];
-		 }		  
+		 }	
+		}	  
 		 return $lista;
 	}
 	public function getCondiciones(){

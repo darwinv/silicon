@@ -36,10 +36,10 @@ $foto=new fotos();
       		<a href="listado.php?id_cla=1039"><div><span class="marL5 ">MAC </span></div></a>
     	</div>
     	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">      
-      		<a href="listado.php?id_cla=1051"><div><span class="marL5 ">IPad</span></div></a>
+      		<a href="listado.php?id_cla=1051"><div><span class="marL5 ">iPad</span></div></a>
     	</div>
     	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">      
-       		<a href="listado.php?id_cla=1648"><div><span class="marL5 ">IPhone</span></div></a>     
+       		<a href="listado.php?id_cla=1648"><div><span class="marL5 ">iPhone</span></div></a>     
     	</div>
     <!--	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-2">      
       		<a href="listado.php?id_cla=1276"><div><img src="galeria/img-site/iconos_cat/deportes y fitness.png" width="36" height="35"><span class="marL5 t12">Deportes y fitness </span></div></a>

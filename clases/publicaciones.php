@@ -72,6 +72,7 @@ class publicaciones extends bd {
 		}
 	}
 	public function buscarPublicacion($id){
+		
 		$this->id = $id;
 		
 		$result = $this->doSingleSelect($this->table,"id = {$this->id}");
